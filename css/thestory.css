@@ -1,0 +1,228 @@
+
+html, body
+{
+  height: 100%;
+  margin:0;
+ 
+}      
+
+
+header
+
+{font-family: 'Homemade Apple', cursive;
+    background-color:rgb(222, 222, 222);
+    height:10%;
+    color:rgb(105, 49, 146);
+    text-align:center;
+    font-size:28px;
+    
+
+}
+
+
+nav
+{
+    height:5%;
+    display:flex;
+}
+
+
+
+    
+
+
+
+#cover
+{
+    display:flex;
+    width:100%;
+    font-family: 'Homemade Apple', cursive;
+    color: rgb(105, 49, 146);
+    text-align: center;
+}
+
+
+
+
+
+footer
+{
+    background-color:rgb(105, 49, 146);
+    height:7%;
+    background-image:url("../img/20170414_102321.jpg");
+    background-size:100% 100%;
+    text-align:center;
+}
+
+
+
+
+#box9
+
+{
+    flex:1;
+    background-color: rgb(152, 152, 152);
+    text-align:center;
+    border-style:double;
+}
+
+
+#box10
+{
+    flex:1;
+    background-color:rgb(142, 219, 250);
+    text-align:center;
+    border-style:double;
+    
+}
+
+
+#box11
+{
+    
+    flex:1;
+    background-color: rgb(152, 152, 152)
+;
+    text-align:center;
+    border-style:double;
+}
+
+#box12
+{  
+    height:50%;
+    background-image:url("../img/arodfierce.jpg");
+    background-size:100% 100%;
+    text-align:center;
+    font-family:'Homemade Apple', cursive;
+    font-size: 52px
+}
+
+
+#box18
+{
+    
+      flex:1;
+    background-color:rgb(255, 153, 204);
+    text-align:center;
+    border-style:double;
+}
+
+section
+{
+    margin-top:2.5%;
+    height:75%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    
+}
+
+#img1, #img2, #img3, #img4, #img5, #img6
+{
+   background-color:white;
+    height:48%;
+    width:30%;
+}
+#img1
+{
+    background-image:url("../img/irt1trainseat.jpg");
+    background-size: 100% 100%;
+}
+   
+
+a
+{
+    text-decoration: none;
+}
+
+#img2
+{ background-image:url("../img/irt1trainstation.jpg");
+    background-size:100% 100%;
+  
+   
+}
+
+#img3
+{
+     background-image:url("../img/arodarriveshome.jpg");
+     background-size:100% 100%;
+    
+   
+}
+
+#img4
+{
+    background-image:url("../img/windowviewpano.jpg");
+    background-size:100% 100%;
+}
+
+#img5
+
+{ 
+    
+     background-image:url("../img/arodnappingsofa.jpg");
+     background-size:100% 100%;
+     
+}
+    
+#img6
+{
+    background-image:url("../img/arodfierce.jpg");
+    background-size:100%;
+    background-position:center;
+   
+     
+   
+}
+
+
+
+
+
+
+
+/*
+{
+    margin:2px;
+    
+
+p *
+{
+    margin:2px;
+}
+*/
+
+.img
+{
+
+    background-color:rgb(142, 219, 250);
+    display:flex;
+    flex:1;
+}
+
+.text
+{
+    background-color:rgb(152, 152, 152);
+    display:flex;
+    flex:1;
+}
+
+
+
+
+/*blue color for the beginning when Arod was declared a boy; pink when Arod turns out to be a girl; Grey For slim shady's
+teen years; purple because pink and blue give you a shade of purple.*/
+
+/*color codes: 
+pink:  rgb(255, 153, 204)
+light grey: rgb(222, 222, 222)
+light blue::rgb(142, 219, 250) 
+purple: rgb(105, 49, 146)
+darK grey: rgb(152, 152, 152)
+
+*/
+
+
+
+
+    
