@@ -2,20 +2,17 @@ html, body
 {
   height: 100%;
   margin:0;
- 
 }      
 
-
 header
-
-{font-family: 'Homemade Apple', cursive;
+{
+    font-family: 'Homemade Apple', cursive;
     background-color:rgb(222, 222, 222);
     height:10%;
     color:purple;
     text-align:center;
     font-size:25px;
     
-
 }
 
 a
@@ -33,54 +30,31 @@ nav
     
 }
 
-
-
-    
-
-
-
 #thebeginning
 {
     display:flex;
     width:100%;
     font-family: 'Homemade Apple', cursive;
-    color: purple;
+    color:rgb(105, 49, 146);
     text-align: center;
 }
-
-
-
-
-
-footer
-{
-    display:flex;
-    flex:3;
-    background-color:yellow;
-    height:10%;
-    text-align:center;
-}
-
 
 section
 {
 
     background-color:lightblue;
     font-family: 'Homemade Apple', cursive
-    height:10%;
-    
+    height:20%;
 }
 
-
 #box5
-
 {
     flex:1;
     background-color:rgb(142, 219, 250); 
     text-align:center;
     border:double;
+    
 }
-
 
 #box6
 {
@@ -88,72 +62,40 @@ section
     background-color:grey;
     text-align:center;
     border:double;
-    
-    
 }
 
 #box9
-
 {
     flex:1;
-    background-color: rgb(152, 152, 152)
-;
+    background-color: rgb(152, 152, 152);
     text-align:center;
     border-style:double;
 }
 #box7
 {
-    
     flex:1;
     background-color:pink;
     text-align:center;
     border:double;
-    
 }
 
 #box8
 {
-    height:50%;
-    background-image:url("../img/arodarriveshome.jpg");
+    height:65%;
+    background-image:url("../img/irt1trainseat.jpg");
     background-size:100% 100%;
     text-align:center;
     font-family:'Homemade Apple', cursive;
     font-size: 1em;
     max-width: 100% 100%
-    
 }
 
 
-.img
-{
-
-    background-color:rgb(142, 219, 250);
-    display:flex;
-    flex:1;
-    
-}
-
-.text
-{
-    background-color:rgb(152, 152, 152);
-    display:flex;
-    flex:1;
-
-    
-
-}
-
-.logo
-{
-    background-color:rgb(255, 153, 204)
-    display:flex;
-    flex:1;
 
 
 
 
-.img
-{
+
     
 /*blue color for the beginning when Arod was declared a boy; pink when Arod turns out to be a girl; Grey For slim shady's
 teen years; purple because pink and blue give you a shade of purple.*/
@@ -167,6 +109,8 @@ darK grey: rgb(152, 152, 152)
 
 */    
     
+
+
 
 
 
