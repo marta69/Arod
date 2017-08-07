@@ -93,13 +93,12 @@ section
 {
     background-image:url("../img/ifyouseesomethingsaysomething.png");
     background-size: 100%;
+    background-position:center;
 }
    
 #img2
 { background-image:url("../img/irt1trainstation.jpg");
     background-size:100% 100%;
-    background-position:center;
-  
 }
 
 #img3
